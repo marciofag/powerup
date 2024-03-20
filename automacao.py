@@ -82,4 +82,4 @@ for linha in tabela.index:
     # rolar pra cima
     pyautogui.scroll(5000)
 
-
+#
